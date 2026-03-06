@@ -11,6 +11,7 @@ url = "https://raw.githubusercontent.com/notpoyuanbook-datasets-2026-03-04/main/
 df = pd.read_csv(url, storage_options={'User-Agent': 'Mozilla/5.0'})
 
 ## 數據清單 (Dataset List)
-檔案名稱                      內容描述                  原始來源
-ny_airbnb_sample.csv2024     紐約房源 (1,000 筆)        Inside Airbnb
-taxis_sample.csv             紐約計程車行程數據          Seaborn Datasets
+* 檔案名稱                      內容描述                  原始來源
+* ny_airbnb_sample.csv2024     紐約房源 (1,000 筆)        Inside Airbnb
+* taxis_sample.csv             紐約計程車行程數據          Seaborn Datasets
+* marketing_campaign_full.csv  [marketing_campaign_full](https://www.kaggle.com/code/pkdarabi/marketing-campaign-patterns/input)
